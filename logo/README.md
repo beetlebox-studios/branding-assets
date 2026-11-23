@@ -4,7 +4,7 @@
 
 | file | notes |
 | --- | --- |
-| `current/bbox.svg`, `current/bbox.png` | Vector mascot master, 960x960, black background, `#a2eb44`, 20px round-cap strokes. Box opening gaps and face gap equal the stroke width. |
+| `current/bbox.svg`, `current/bbox.png` | Vector mascot master, 960x960, black background, `#a2eb44`, 20px round-cap strokes. Box opening gaps and face gap equal the stroke width. Mandible cutout sits below the trunk, angled to follow it. |
 
 ## Hand-drawn (white, in use)
 
@@ -24,3 +24,4 @@
 | `drafts/vector/green_trace_render.png` | PNG render of that trace |
 | `drafts/vector/v1_clean.*` | cleaned trace, 16px, flat caps |
 | `drafts/vector/v2_round_caps.*` | 20px round caps, slot collinear with trunk |
+| `drafts/vector/v3_gaps_equal_stroke.*` | gaps equal stroke width, slot below trunk but not yet angled |

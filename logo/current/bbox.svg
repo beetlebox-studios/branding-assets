@@ -16,5 +16,5 @@
     <circle cx="366" cy="437" r="12"/>
     <circle cx="432" cy="458" r="12"/>
   </g>
-  <path d="M300 530L366 512" fill="none" stroke="#000" stroke-width="20" stroke-linecap="round"/>
+  <path d="M276.4 527.3L340.5 503.6" fill="none" stroke="#000" stroke-width="20" stroke-linecap="round"/>
 </svg>
