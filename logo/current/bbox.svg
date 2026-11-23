@@ -2,8 +2,10 @@
   <rect width="960" height="960" fill="#000"/>
   <g fill="#a2eb44" stroke="#a2eb44" stroke-width="20" stroke-linejoin="round">
     <path d="M290 375L519 427L526 625L295 586Z"/>
-    <path d="M296 335.4L383 355.2L543 262.2L456 242.4Z"/>
-    <path d="M440.3 368.2L525 387.4L685 294.4L600.3 275.2Z"/>
+  </g>
+  <g fill="#a2eb44">
+    <path d="M291.0 326.8A10 10 0 0 0 293.8 345.2L384.6 365.8L570.0 258.1L458.2 232.6A10 10 0 0 0 451.0 233.8Z"/>
+    <path d="M413.3 372.3L522.8 397.2A10 10 0 0 0 530.0 396.0L690.0 303.0A10 10 0 0 0 687.2 284.6L598.7 264.6Z"/>
   </g>
   <g fill="none" stroke="#a2eb44" stroke-width="20" stroke-linejoin="round" stroke-linecap="round">
     <path d="M445 686L484 718L526 627L713 540L685 294"/>
